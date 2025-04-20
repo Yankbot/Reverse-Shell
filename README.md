@@ -1,4 +1,6 @@
 # Reverse-Shell
+(FOR EDUCATIONAL USE ONLY)
+
 Write, set up, and execute a reverse shell in Python on Kali Linux and Metasploitable VM's, and automate this process creating a persistent backdoor.
 
 !!Make sure that Both VM's can communicate with eachother on a secure network!!
