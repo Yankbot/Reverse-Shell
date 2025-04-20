@@ -7,7 +7,7 @@ On Kali, start a Netcat listener on port 7777: nc -lvnp 7777
 
 This tells Netcat to listen verbosely on port 7777 and not to close the connection.
 
-On Metasploitable machine, create a Python script: sudo nano reverse_shell.py.
+On Metasploitable machine, create a Python script: sudo nano reverse_shell.py
 
 Write or paste the committed code in this file; save and exit the editor.
 
